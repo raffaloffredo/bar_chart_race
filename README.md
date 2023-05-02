@@ -6,7 +6,7 @@
 <br/>
 
 ## Sobre o projeto
-No estudo que fiz sobre COVID-19 criei um Bar Chart Race que é um gráfico animado, no qual as barras avançam uma sobre as outras conforme o valor aumenta. Isso dá essa impressão de corrida das barras pois mostra quem está ganhando em um determinado momento. Por isso, é um excelente recurso visual para séries histórias.
+No [estudo que fiz sobre COVID-19](https://github.com/raffaloffredo/covid_2023_portuguese) criei um Bar Chart Race que é um gráfico animado, no qual as barras avançam uma sobre as outras conforme o valor aumenta. Isso dá essa impressão de corrida das barras pois mostra quem está ganhando em um determinado momento. Por isso, é um excelente recurso visual para séries histórias.
 
 [Nesse artigo](https://medium.com/@loffredo.ds/como-criar-um-gr%C3%A1fico-animado-com-o-bar-chart-race-878a0e693246) mostro como fiz esse gráfico para que você possa criar o seu!
 
