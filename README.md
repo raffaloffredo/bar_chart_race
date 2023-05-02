@@ -15,6 +15,7 @@ Clique [aqui](https://github.com/raffaloffredo/bar_chart_race/blob/main/%5BLoffr
 Clique [aqui](https://www.youtube.com/watch?v=6DQCzydiCQ8) para visulizar o gráfico animado no YouTube.
 <br/>
 <br/>
+<br/>
 
 ## Outros projetos
 
