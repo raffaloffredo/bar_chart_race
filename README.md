@@ -19,7 +19,7 @@ Clique [aqui](https://www.youtube.com/watch?v=6DQCzydiCQ8) para visulizar o grá
 
 ## Outros projetos
 
-Análise Explaratória de Dados
+Análise Exploratória de Dados
 * **[Airbnb New York](https://github.com/raffaloffredo/airbnb_new_york_portuguese)**
 <br/>
 
