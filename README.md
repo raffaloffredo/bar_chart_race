@@ -9,8 +9,10 @@
 No [estudo que fiz sobre COVID-19](https://github.com/raffaloffredo/covid_2023_portuguese) criei um Bar Chart Race que é um gráfico animado, no qual as barras avançam uma sobre as outras conforme o valor aumenta. Isso dá essa impressão de corrida das barras pois mostra quem está ganhando em um determinado momento. Por isso, é um excelente recurso visual para séries histórias.
 
 [Nesse artigo](https://medium.com/@loffredo.ds/como-criar-um-gr%C3%A1fico-animado-com-o-bar-chart-race-878a0e693246) mostro como fiz esse gráfico para que você possa criar o seu!
+<br/> 
+<br/>
 
-Clique [aqui](https://github.com/raffaloffredo/bar_chart_race/blob/main/%5BLoffredoDS%5D_Como_criar_um_gr%C3%A1fico_animado_com_o_Bar_Chart%C2%A0Race.ipynb) para acessar o código que será utilizado nesse artigo.
+Clique [aqui](https://github.com/raffaloffredo/bar_chart_race/blob/main/%5BLoffredoDS%5D_Como_criar_um_gr%C3%A1fico_animado_com_o_Bar_Chart%C2%A0Race.ipynb) para acessar o código completo.
 
 Clique [aqui](https://www.youtube.com/watch?v=6DQCzydiCQ8) para visulizar o gráfico animado no YouTube.
 <br/>
